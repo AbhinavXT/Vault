@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Educative/Grokking the Coding Interview/Coding Interview Question Patterns.md",
+                "file": "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Educative/Grokking the Coding Interview/Coding Interview Question Patterns.md",
+            "file": "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Educative/Grokking the Coding Interview/Coding Interview Question Patterns.md",
+            "file": "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Educative/Grokking the Coding Interview/Coding Interview Question Patterns.md"
+            "file": "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md"
           }
         }
       },
@@ -146,7 +146,9 @@
   },
   "active": "e234cdeb1fcfdc77",
   "lastOpenFiles": [
-    "Educative/Grokking the Coding Interview/Coding Interview Question Patterns.md",
+    "Educative/Grokking the Coding Interview/Index.md",
+    "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md",
+    "Educative/Grokking the Coding Interview/Two Pointers",
     "Educative/Grokking the Coding Interview",
     "Untitled.md",
     "Finance",
