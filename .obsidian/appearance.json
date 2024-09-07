@@ -1,4 +1,5 @@
 {
   "cssTheme": "Border",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "accentColor": "#2c3685"
 }
