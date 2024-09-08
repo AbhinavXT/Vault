@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "431916735cec7995",
+    "type": "split",
+    "children": [
+      {
+        "id": "599ab4be886388a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10e8e3fa05ca935e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1de0714b0df5c0fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "445f788ba8c94dc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d42923d357af84c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79ea516be81c6601",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2695102452e2aab5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ba1501fd96023cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "937305d7cca69343",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acc0019e4ed9a67e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "137905f2f23b6d23",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f9531895ed9cb096",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "814f616f56dcd47d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-omnivore:Omnivore": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "10e8e3fa05ca935e",
+  "lastOpenFiles": [
+    "Educative/Grokking the Coding Interview/Index.md",
+    "Untitled.canvas",
+    "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md"
+  ]
+}
