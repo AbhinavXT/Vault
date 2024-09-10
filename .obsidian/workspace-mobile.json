@@ -11,9 +11,11 @@
             "id": "b664dc0d9e7b946e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-10 20.54.16.excalidraw.md"
+                "file": "Educative/Grokking the Coding Interview/Index.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2024-09-10 20.54.16.excalidraw.md",
+            "file": "Educative/Grokking the Coding Interview/Index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2024-09-10 20.54.16.excalidraw.md",
+            "file": "Educative/Grokking the Coding Interview/Index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2024-09-10 20.54.16.excalidraw.md"
+            "file": "Educative/Grokking the Coding Interview/Index.md"
           }
         }
       },
@@ -154,8 +156,8 @@
   },
   "active": "b664dc0d9e7b946e",
   "lastOpenFiles": [
-    "Educative/Grokking the Coding Interview/Two Pointers/Drawing 2024-09-10 21.49.37.excalidraw.md",
     "Excalidraw/Drawing 2024-09-10 20.54.16.excalidraw.md",
+    "Educative/Grokking the Coding Interview/Two Pointers/Drawing 2024-09-10 21.49.37.excalidraw.md",
     "Excalidraw/Drawing 2024-09-10 21.49.16.excalidraw.md",
     "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md",
     "Educative/Grokking the Coding Interview/Index.md",

@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiExcalidrawIcon",
       "LiCode2",
       "LiList"
     ],
@@ -31,5 +32,6 @@
     "debugMode": false
   },
   "Educative/Grokking the Coding Interview/Index.md": "LiList",
-  "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md": "LiCode2"
+  "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md": "LiCode2",
+  "Excalidraw/Drawing 2024-09-10 20.54.16.excalidraw.md": "LiExcalidrawIcon"
 }
