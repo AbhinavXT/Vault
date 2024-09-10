@@ -11,9 +11,11 @@
             "id": "59fdf5ad840bfd20",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-10 20.54.16.excalidraw.md"
+                "file": "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-10 20.54.16.excalidraw.md",
+                "file": "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-10 20.54.16.excalidraw.md",
+                "file": "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-10 20.54.16.excalidraw.md"
+                "file": "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md"
               }
             }
           }
@@ -154,8 +156,8 @@
   },
   "active": "59fdf5ad840bfd20",
   "lastOpenFiles": [
-    "KAVACH - System Level test format SIF 533 ver 4_14-FRS.pdf",
     "Excalidraw/Drawing 2024-09-10 20.54.16.excalidraw.md",
+    "KAVACH - System Level test format SIF 533 ver 4_14-FRS.pdf",
     "Excalidraw",
     "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md",
     "Work",

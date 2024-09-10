@@ -11,11 +11,9 @@
             "id": "b664dc0d9e7b946e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-09-10 20.54.16.excalidraw.md"
               }
             }
           }
@@ -85,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md",
+            "file": "Excalidraw/Drawing 2024-09-10 20.54.16.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md",
+            "file": "Excalidraw/Drawing 2024-09-10 20.54.16.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md"
+            "file": "Excalidraw/Drawing 2024-09-10 20.54.16.excalidraw.md"
           }
         }
       },
@@ -135,13 +133,15 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "omnisearch:Omnisearch": false,
       "obsidian-omnivore:Omnivore": false,
       "switcher:Open quick switcher": false,
@@ -154,6 +154,9 @@
   },
   "active": "b664dc0d9e7b946e",
   "lastOpenFiles": [
+    "Educative/Grokking the Coding Interview/Two Pointers/Drawing 2024-09-10 21.49.37.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-10 20.54.16.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-10 21.49.16.excalidraw.md",
     "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md",
     "Educative/Grokking the Coding Interview/Index.md",
     "2024-09-08.md",
