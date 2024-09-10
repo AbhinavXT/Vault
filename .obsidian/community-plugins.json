@@ -1,11 +1,12 @@
 [
   "obsidian-excalidraw-plugin",
   "dataview",
-  "obsidian-tasks-plugin",
   "omnisearch",
-  "obsidian-git",
-  "obsidian-extract-pdf-highlights",
   "obsidian-omnivore",
   "oz-image-plugin",
-  "todoist-sync-plugin"
+  "todoist-sync-plugin",
+  "obsidian-style-settings",
+  "obsidian-icon-folder",
+  "pdf-plus",
+  "obsidian-git"
 ]

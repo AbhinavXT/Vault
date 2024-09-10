@@ -1,5 +1,6 @@
 {
-  "cssTheme": "Border",
+  "cssTheme": "AnuPpuccin",
   "theme": "moonstone",
-  "accentColor": "#4436b0"
+  "accentColor": "",
+  "enabledCssSnippets": []
 }
