@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "22e97befab59a4a2",
+        "id": "0d5daac0dc5b36e0",
         "type": "tabs",
         "children": [
           {
-            "id": "b664dc0d9e7b946e",
+            "id": "92cc3363fb43c51b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/System Test.md"
+                "file": "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/System Test.md",
+            "file": "Educative/Grokking the Coding Interview/Index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/System Test.md",
+            "file": "Educative/Grokking the Coding Interview/Index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/System Test.md"
+            "file": "Educative/Grokking the Coding Interview/Index.md"
           }
         }
       },
@@ -131,35 +133,43 @@
           "type": "git-history-view",
           "state": {}
         }
+      },
+      {
+        "id": "7b8c6a0e0c877e83",
+        "type": "leaf",
+        "state": {
+          "type": "custom-frames-chatgpt",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-omnivore:Omnivore": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-omnivore:Omnivore": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "b664dc0d9e7b946e",
+  "active": "92cc3363fb43c51b",
   "lastOpenFiles": [
+    "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md",
     "Excalidraw/System Test.md",
     "Work",
     "KAVACH - System Level test format SIF 533 ver 4_14-FRS.pdf.md",
     "Work/KAVACH - System Level test format SIF 533 ver 4_14-FRS.pdf",
     "Excalidraw/Drawing 2024-09-11 00.19.05.excalidraw.md",
-    "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md",
     "Educative/Grokking the Coding Interview/Index.md",
     "Educative/Grokking the Coding Interview/Two Pointers/Drawing 2024-09-10 21.49.37.excalidraw.md",
     "Excalidraw/Drawing 2024-09-10 21.49.16.excalidraw.md",
