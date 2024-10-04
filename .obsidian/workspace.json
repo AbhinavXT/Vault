@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3d0a9ab609937479",
+        "id": "10ac34d6fb221c84",
         "type": "tabs",
         "children": [
           {
-            "id": "59fdf5ad840bfd20",
+            "id": "af68732ef6008993",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md",
+                "file": "Braking.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "right": {
     "id": "1ba1501fd96023cc",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md",
+                "file": "Braking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md",
+                "file": "Braking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md"
+                "file": "Braking.md"
               }
             }
           }
@@ -138,7 +139,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "omnisearch:Omnisearch": false,
       "obsidian-omnivore:Omnivore": false,
@@ -153,10 +153,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "59fdf5ad840bfd20",
+  "active": "af68732ef6008993",
   "lastOpenFiles": [
-    "Excalidraw/System Test.md",
     "Educative/Grokking the Coding Interview/Two Pointers/Two Pointers.md",
+    "Braking.md",
+    "Excalidraw/System Test.md",
     "Excalidraw/Drawing 2024-09-10 20.54.16.excalidraw.md",
     "KAVACH - System Level test format SIF 533 ver 4_14-FRS.pdf",
     "Excalidraw",
